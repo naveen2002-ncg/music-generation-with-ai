@@ -1,0 +1,8 @@
+tensorflow
+pretty_midi
+music21
+magenta
+numpy
+scipy
+pandas
+jupyter 

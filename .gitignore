@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Data and model files
+*.mid
+*.npz
+*.pkl
+*.pth
+data/
+
+# OS files
+.DS_Store
+Thumbs.db 
